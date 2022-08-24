@@ -12,3 +12,4 @@ console.log(a.substring(a.length-1, a.length));
 // Solution 3
 var a = "Parts";
 console.log(a[a.length-1]);
+

@@ -15,4 +15,4 @@ const Palindrome = (str)=>{
       reversed = x + reversed;
     }
     console.log(str===reversed);
-   })("david")
+   })("hannah")
